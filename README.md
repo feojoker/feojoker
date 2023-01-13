@@ -6,8 +6,12 @@ I'm a Frontend Developer with 2+ years experience.
 Having started my career path with vanilla JavaScript, now I have 1+ year of development experience with React & Next.js.
 I specialize in JavaScript, but looking forward to working with Typescript as well.
 
-You could find my CV <a href="https://drive.google.com/file/d/1GcdbXF7-7MQ9l9bxPRiTEjshL_rT1ebY/view?usp=sharing" target="_blank">here</a> 
-Dont histate to text me in [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+You could find my CV <a href="https://drive.google.com/file/d/1GcdbXF7-7MQ9l9bxPRiTEjshL_rT1ebY/view?usp=sharing" target="_blank" rel="nofollow noreferrer">here</a>
+
+Don't histate to text me in <a href="https://www.linkedin.com/in/fedor-sokolov-309835bb/" target="_blank" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" > LinkedIn
+  </a> too.
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 
 
