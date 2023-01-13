@@ -11,7 +11,6 @@ You could find my CV <a href="https://drive.google.com/file/d/1GcdbXF7-7MQ9l9bxP
 Don't histate to text me in <a href="https://www.linkedin.com/in/fedor-sokolov-309835bb/" target="_blank" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" > LinkedIn
   </a> too.
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 
 
