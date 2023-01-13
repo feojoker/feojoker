@@ -14,7 +14,7 @@ Don't histate to text me in <a href="https://www.linkedin.com/in/fedor-sokolov-3
 
 
 
-And take a look at my recent own multilingual project, made with NextJS, Typescript & Strapi for backend: https://www.bzztattoo.com &nbsp; 
+And take a look at my recent own multilingual project, made with NextJS, Typescript & Strapi for backend: https://www.bzztattoo.com  
 Source code: https://github.com/feojoker/bzzTattoo
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
