@@ -2,9 +2,9 @@
 <h3 align="center">React Developer from Belarus (now in Georgia)</h3>
 
 
-I'm a Frontend Developer with 2+ years experience.  
+I'm a Frontend Developer with 3+ years experience.  
 Having started my career path with vanilla JavaScript, now I have 1+ year of development experience with React & Next.js.  
-I specialize in JavaScript, but looking forward to working with Typescript as well.
+I am mostly specialize in JavaScript, but looking forward to working with Typescript as well.
 
 You could find my CV <a href="https://drive.google.com/file/d/1GcdbXF7-7MQ9l9bxPRiTEjshL_rT1ebY/view?usp=sharing" target="_blank" rel="nofollow noreferrer">here</a>
 
